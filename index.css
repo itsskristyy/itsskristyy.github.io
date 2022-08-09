@@ -43,3 +43,22 @@ nav{
     align-items: center;
     justify-content: center;
   }
+
+  img{
+    border-radius: 8px;
+    height: 400px;
+    width: 400px;
+   
+ }
+ h1{
+     text-align: center;
+     font-size: 40px;
+ }
+ .row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
